@@ -1,0 +1,26 @@
+  #bloque1{
+          background-color: gold;
+
+
+
+        border: 2px solid ;
+
+
+
+        margin-top: 10px;
+
+          
+        }
+   
+
+        #bloque2{
+          background-color: silver;
+          border: 2px solid ;
+          margin-top: 10px;
+        }
+      
+
+      #map {
+            height: 300px;
+            margin-top: 20px;
+        }
